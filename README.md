@@ -30,3 +30,6 @@
   > 公众号“路科验证”、“猴哥验证”、“IC验证工程师”等  
   > systemverilog语言参考2005, 2012  
 
+* 其它参考资料
+  > [markdown语法快速入门手册](https://www.w3cschool.cn/markdownyfsm/markdownyfsm-odm6256r.html)  
+  > [git和github简单教程](http://www.cnblogs.com/schaepher/p/5561193.html)  
