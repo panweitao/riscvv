@@ -26,7 +26,7 @@
 * 验证参考资料
   > 《systemverilog for verificaiton, 3nd Edition》（绿皮书）  
   > 《UVM实战》（白皮书）  
-  > 《芯片验证验证漫游指南》（红宝书）  
+  > 《芯片验证漫游指南》（红宝书）  
   > 公众号“路科验证”、“猴哥验证”、“IC验证工程师”等  
   > systemverilog语言参考2005, 2012  
 
